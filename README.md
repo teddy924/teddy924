@@ -4,5 +4,5 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](여러분들 블로그 주소) 
+[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://www.notion.so/298f4360ce8a4bffaf404e6aa2355d17)](https://www.notion.so/298f4360ce8a4bffaf404e6aa2355d17) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A2%85%EC%9A%A9-%EC%9D%B4-32b890356)](https://www.linkedin.com/in/%EC%A2%85%EC%9A%A9-%EC%9D%B4-32b890356)
